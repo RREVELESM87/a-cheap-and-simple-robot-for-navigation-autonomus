@@ -1,2 +1,2 @@
 # a-cheap-and-simple-robot-for-navigation-autonomus
-This folder contains all necessary for the implementation of a cheap, simple, straightforward robot for autonomous navigation. It contains the blueprints, electronic components and the necessary codes.
+This project proposes an open and simple platform for an autonomous 1:10 scale robot, to become familiar with artificial intelligence using cheap and easily accessible components. As a result of a master's degree in Information Processing Sciences, from the Faculty of Electrical Engineering of the Autonomous University of Zacatecas, the CAD plans, electronic components, and the necessary codes for the robot's navigation are included.
