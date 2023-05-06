@@ -1,0 +1,52 @@
+{
+  "C_Cpp_Runner.cCompilerPath": "C:/Users/rafa/.platformio/packages/toolchain-atmelavr/bin/avr-gcc.exe",
+  "C_Cpp_Runner.cppCompilerPath": "C:/Users/rafa/.platformio/packages/toolchain-atmelavr/bin/avr-g++.exe",
+  "C_Cpp_Runner.debuggerPath": "C:/Users/rafa/.platformio/packages/toolchain-atmelavr/bin/avr-gdb.exe",
+  "C_Cpp_Runner.cStandard": "c11",
+  "C_Cpp_Runner.cppStandard": "c++11",
+  "C_Cpp_Runner.msvcBatchPath": "",
+  "C_Cpp_Runner.useMsvc": false,
+  "C_Cpp_Runner.warnings": [
+    "-Wall",
+    "-Wextra",
+    "-Wpedantic",
+    "-Wshadow",
+    "-Wformat=2",
+    "-Wconversion",
+    "-Wnull-dereference",
+    "-Wsign-conversion"
+  ],
+  "C_Cpp_Runner.enableWarnings": true,
+  "C_Cpp_Runner.warningsAsError": false,
+  "C_Cpp_Runner.compilerArgs": [],
+  "C_Cpp_Runner.linkerArgs": [],
+  "C_Cpp_Runner.includePaths": [
+    "C:/Users/rafa/OneDrive - Instituto Politecnico Nacional/RAFA-REVELES-IDE/Robot V2.0/20-robotTesis-POO/include",
+    "C:/Users/rafa/OneDrive - Instituto Politecnico Nacional/RAFA-REVELES-IDE/Robot V2.0/20-robotTesis-POO/src",
+    "C:/Users/rafa/OneDrive - Instituto Politecnico Nacional/RAFA-REVELES-IDE/Robot V2.0/20-robotTesis-POO/.pio/libdeps/uno/Adafruit Motor Shield library",
+    "C:/Users/rafa/OneDrive - Instituto Politecnico Nacional/RAFA-REVELES-IDE/Robot V2.0/20-robotTesis-POO/.pio/libdeps/uno/USB-Host-Shield-20",
+    "C:/Users/rafa/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+    "C:/Users/rafa/OneDrive - Instituto Politecnico Nacional/RAFA-REVELES-IDE/Robot V2.0/20-robotTesis-POO/.pio/libdeps/uno/Servo/src",
+    "C:/Users/rafa/.platformio/packages/framework-arduino-avr/cores/arduino",
+    "C:/Users/rafa/.platformio/packages/framework-arduino-avr/variants/standard",
+    "C:/Users/rafa/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+    "C:/Users/rafa/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+    "C:/Users/rafa/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+    "C:/Users/rafa/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+    ""
+  ],
+  "C_Cpp_Runner.includeSearch": [
+    "*",
+    "**/*"
+  ],
+  "C_Cpp_Runner.excludeSearch": [
+    "**/build",
+    "**/build/**",
+    "**/.*",
+    "**/.*/**",
+    "**/.vscode",
+    "**/.vscode/**"
+  ],
+  "C_Cpp_Runner.useAddressSanitizer": false,
+  "C_Cpp_Runner.showCompilationTime": false
+}
